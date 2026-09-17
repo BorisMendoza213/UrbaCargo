@@ -66,6 +66,7 @@ La interfaz está pensada para un flujo móvil moderno, con paleta verde, tonos 
 
 ![Panel del repartidor](cap/Captura%20desde%202026-09-16%2020-00-15.png)
 ![Resumen y calificación](cap/Captura%20desde%202026-09-16%2020-00-29.png)
+![Vista adicional de la app](cap/Captura%20desde%202026-09-16%2020-16-59.png)
 
 ## Resultado
 
